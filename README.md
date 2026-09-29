@@ -12,7 +12,7 @@ response, multi-region HA/DR, observability, and cutting toil.
   (500+ daily pipelines), Terraform + Ansible, Kerberos / LDAP / IAM
 - **Also** — OCI 2025 DevOps Professional · MBA Data Science (Amity, 8.4/10)
 
-[Portfolio](https://sudeepreddy.vercel.app) · sudeepreddy340@gmail.com
+[Portfolio](https://iamsudeep.in/) · sudeepreddy340@gmail.com
 
 ---
 
